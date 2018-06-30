@@ -1,0 +1,30 @@
+{
+    "author": "Pebble Technology",
+    "dependencies": {},
+    "keywords": [
+        "pebble-app"
+    ],
+    "name": "concentricity",
+    "pebble": {
+        "displayName": "Concentricity",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "f15dcfc2-df43-456c-abb0-8657e6733bcf",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.2.0"
+}
